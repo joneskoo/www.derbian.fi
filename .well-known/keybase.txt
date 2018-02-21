@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/joneskoo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.derbian.fi
+  * I am joneskoo (https://keybase.io/joneskoo) on keybase.
+  * I have a public key ASBSOiW7o4hwKNZdaSMRfbzX6tK6jX0o_cur14Myw3cvOQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120d3fb1ece04bfb1a80b573d35e75e28184e2c37fb154acdd561766567a63e46010a",
+            "host": "keybase.io",
+            "kid": "0120523a25bba3887028d65d6923117dbcd7ead2ba8d7d28fdcbabd78332c3772f390a",
+            "uid": "08e0a1c7d52360bd00e8ade6f84a3919",
+            "username": "joneskoo"
+        },
+        "service": {
+            "hostname": "www.derbian.fi",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1479466592,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1479466464,
+        "hash": "b17fec5ad263837d7740d21b105e0130f56167a94e248cef1924dd35a6014eacdfd1aa6fa46983c783dbc8b40a67773e3b72e09c4be50d7d08aeaa69640a33b1",
+        "seqno": 722799
+    },
+    "prev": "28e9048f2767c13e719620e06700adcd847bdfdfdf581726c347d3afc3853f87",
+    "seqno": 30,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUjolu6OIcCjWXWkjEX281+rSuo19KP3Lq9eDMsN3LzkKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDNmYjFlY2UwNGJmYjFhODBiNTczZDM1ZTc1ZTI4MTg0ZTJjMzdmYjE1NGFjZGQ1NjE3NjY1NjdhNjNlNDYwMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTIzYTI1YmJhMzg4NzAyOGQ2NWQ2OTIzMTE3ZGJjZDdlYWQyYmE4ZDdkMjhmZGNiYWJkNzgzMzJjMzc3MmYzOTBhIiwidWlkIjoiMDhlMGExYzdkNTIzNjBiZDAwZThhZGU2Zjg0YTM5MTkiLCJ1c2VybmFtZSI6ImpvbmVza29vIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuZGVyYmlhbi5maSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0Nzk0NjY1OTIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3OTQ2NjQ2NCwiaGFzaCI6ImIxN2ZlYzVhZDI2MzgzN2Q3NzQwZDIxYjEwNWUwMTMwZjU2MTY3YTk0ZTI0OGNlZjE5MjRkZDM1YTYwMTRlYWNkZmQxYWE2ZmE0Njk4M2M3ODNkYmM4YjQwYTY3NzczZTNiNzJlMDljNGJlNTBkN2QwOGFlYWE2OTY0MGEzM2IxIiwic2Vxbm8iOjcyMjc5OX0sInByZXYiOiIyOGU5MDQ4ZjI3NjdjMTNlNzE5NjIwZTA2NzAwYWRjZDg0N2JkZmRmZGY1ODE3MjZjMzQ3ZDNhZmMzODUzZjg3Iiwic2Vxbm8iOjMwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQNUhthIG9shcQMwy8WeSHl9pXSRXtWszFsBuk7f7sZmaqowK37u+1kAtD8MurMOTti8yW7UBRlyQuza36iAPlQWoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCk0xZvnws0fjRaQpI88HncWP2Ncf9yKlIFNyvzPnm9hKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joneskoo
+
+==================================================================
